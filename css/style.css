@@ -1,0 +1,39 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    background-color: aquamarine;
+    max-width: 1000px;
+    border: 2px solid black;
+    padding: 30px;
+    padding-top: 10px;
+    margin: auto;
+    outline: 10px solid rgb(46, 216, 159);
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+    line-height: 1, 5;
+}
+
+.dark {
+    color: #eee;
+    background: #222;
+}
+
+.changebutton {
+    color: darkorange;
+    background-color: darkred;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.centering {
+    text-align: center;
+}
+
+.header {
+    overflow-x: auto;
+}
