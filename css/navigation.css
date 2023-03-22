@@ -1,12 +1,16 @@
 .navigation {
     font-size: 20px;
- }
+}
 
- .navigation__list {
+.navigation__list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
     list-style-type: none;
-    box-shadow: 10px -5px 5px 0px #2F6984, 
-    inset -120px  60px 27px 45px #D3CA19;
-    width: 200px;
+    font-size: 27px;
+    background-color: rgb(27, 219, 219);
+    width: 360px;
+    height: 200px;
     border-radius: 20px;
     border: 10px double black
 }
