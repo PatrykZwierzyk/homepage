@@ -11,4 +11,5 @@ This is my first website made as part of an online course at [YouCode](https://y
 
 ## Link to the website:
 https://patrykzwierzyk.github.io/homepage/
+
 ![Animation](https://user-images.githubusercontent.com/127138703/227184860-ecbae952-1af4-451e-8044-6039cf92e5a9.gif)
