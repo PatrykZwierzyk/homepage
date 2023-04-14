@@ -39,7 +39,7 @@ html {
     overflow-x: auto;
 }
 
-.title {
+.header__title {
     display: flex;
     justify-content: center;
 }
