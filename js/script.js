@@ -4,10 +4,10 @@
     }
 
     const toggleBackground = () => {
-        const body = document.querySelector(".body")
-        const themeName = document.querySelector(".js-themeName")
+        const body = document.querySelector(".body");
+        const themeName = document.querySelector(".js-themeName");
         body.classList.toggle("dark");
-        themeName.innerText = body.classList.contains("dark") ? "jasne" : "ciemne"
+        themeName.innerText = body.classList.contains("dark") ? "jasne" : "ciemne";
     };
 
     const init = () => {
